@@ -20,3 +20,5 @@ nepama reset
 ## Is it safe?
 
 It does not upload anything to the cloud and uses AES. So yeah, it's pretty safe.
+
+> Brute forcing a 128 bit key using this device would take 1,315,888,179,366,587 (1.3 quadrillion) years. That’s the same as 1,315,888 billion years. Current scientific models predict the universe to be 13 billion years old. The times required to brute force 192 and 256 bit keys are astronomically larger.
